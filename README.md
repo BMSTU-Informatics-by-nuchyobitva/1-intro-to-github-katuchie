@@ -1,4 +1,7 @@
 https://github.com/BMSTU-Informatics-by-nuchyobitva/1-intro-to-github-katuchie
+
+
+
 https://github.com/katuchie/graphs
 
 <img width="876" alt="Снимок экрана 2025-02-25 в 00 31 49" src="https://github.com/user-attachments/assets/b52b3616-c133-482c-af60-e5adfe49fb3e" />
